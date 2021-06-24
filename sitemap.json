@@ -1,0 +1,7 @@
+{
+  "desc": "小瓜答题宝",
+  "rules": [{
+  "action": "allow",
+  "page": "*"
+  }]
+}
