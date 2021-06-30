@@ -8,6 +8,7 @@ App({
     baseAPI: "http://10.61.80.194:8000",
     // baseAPI: "http://127.0.0.1:8000",
     pageSize: 20
+    
   },
   onLaunch: function() {
     let _this = this
